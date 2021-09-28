@@ -1,5 +1,7 @@
-# CUS1166_Project_Template
+# Flask Project Template
 A Flask boilerplate code to kickstart project for class and for individual project assessment.
+
+*Author:* Dr. Christoforos Christoforou
 
 ## Application structure.
 - The main logic of the application is implemented in the `app` module (folder).
@@ -46,7 +48,7 @@ initdb will create a database that includes tables for all the models (defined i
 
 - Once the virtual enviroment is active, and the database is created, you can run the application either by typing `flask  run` or `python manage.py runserver`.
 
-- Noteice: You might also need to set up the FLASK_APP environment variable to point to your application. For example, by typing `export FLASK_APP=app.py` on mac or `set FLASK_APP=app.py` in windows, while you are in the virtual environemnt  
+- Notice: You might also need to set up the FLASK_APP environment variable to point to your application. For example, by typing `export FLASK_APP=app.py` on mac or `set FLASK_APP=app.py` in windows, while you are in the virtual environemnt.
 
 
 ## Libraries Used
@@ -59,7 +61,7 @@ initdb will create a database that includes tables for all the models (defined i
 ## License
 This code is provided as a starting project code for the CUS1166 course only.  
 
-Copyright © 2020 Christoforos Christoforou.
+Copyright © 2021 Christoforos Christoforou.
 <div style="font-size:10px">
   <p>Copyright Statement: This problem set is part the of Dr. Christoforos Christoforou's instruction materials. You may not, nor may you knowingly allow others to reproduce or distribute lecture notes, course materials or any of their derivatives without the instructor's express written consent. The materials provided by the instructor of this course, including this problem set, are for the use of the students enrolled in the course for the sole purpose of personal use and study, and should not be used in any other way. Materials are presented in an educational context for personal use and study and should not be shared, distributed, disseminated or sold in print — or digitally — outside the course without permission.</p>
 </div>
