@@ -58,3 +58,8 @@ initdb will create a database that includes tables for all the models (defined i
 
 ## License
 This code is provided as a starting project code for the CUS1166 course only.  
+
+Copyright © 2020 Christoforos Christoforou.
+<div style="font-size:10px">
+  <p>Copyright Statement: This problem set is part the of Dr. Christoforos Christoforou's instruction materials. You may not, nor may you knowingly allow others to reproduce or distribute lecture notes, course materials or any of their derivatives without the instructor's express written consent. The materials provided by the instructor of this course, including this problem set, are for the use of the students enrolled in the course for the sole purpose of personal use and study, and should not be used in any other way. Materials are presented in an educational context for personal use and study and should not be shared, distributed, disseminated or sold in print — or digitally — outside the course without permission.</p>
+</div>
