@@ -1,7 +1,7 @@
 # Flask Project Template
 A Flask boilerplate code to kickstart project for class and for individual project assessment.
 
-*Author:* Dr. Christoforos Christoforou
+*Author:* [Dr. Christoforos Christoforou](https://www.researchgate.net/profile/Christoforos-Christoforou-4)
 
 ## Application structure.
 - The main logic of the application is implemented in the `app` module (folder).
