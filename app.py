@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+## Testing change
+=======
 ## Copyright , Dr. Christoforos Chrsitoforou.
 ## All rights reserved
 ##
@@ -16,6 +19,7 @@
 ## Use and moditication of this code is permitted for students enrolled in Dr. Christoforou's course
 ## for the purpose of the Course provided  the above copyright notice is retained in all source files.
 ##
+>>>>>>> 1bd521238a4ce4b6a24fca8450306b059923c88f
 from app import create_app
 
 app = create_app()
