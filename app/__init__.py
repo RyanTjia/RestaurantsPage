@@ -60,4 +60,11 @@ def create_app(config_class=Config):
     from app.main import bp as main_routes_bp
     app.register_blueprint(main_routes_bp)
 
+    #
+    # Register custom CLI command
+    #
+
+    from app import cli
+    cli.register(app, db)
+
     return app;

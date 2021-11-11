@@ -43,6 +43,13 @@ For this project, the database management is handled in the `manage.py` file. Th
 initdb will create a database that includes tables for all the models (defined in your `models.py` file). Every time you modify your `models.py` file, you would need to re-create the database to reflect the new schema. Creating a database will create a file called `app.db` in your root folder.  Notice that you need to run these
 
 
+### Managing the database - updated
+
+When using Flask 2.0 and above, the database management is handled via flask.cli module. To initialize the database and drop the database. To create a new database run the command
+```
+  flask rki-db initdb
+```
+
 ### Managing the applications.
 - Before running the applications you need to make sure you activated the virtual environment (i.e. by executing `pipenv shell`) and created the database (i.e. by running `python manage.py initdb`).
 
